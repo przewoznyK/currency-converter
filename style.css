@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    margin: 10px;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    text-align: center;
+}
+th {
+    padding: 5px;
+}
+main {
+    margin: 30px;
+}
